@@ -1,6 +1,3 @@
-# Springboard_Intro_To_Data_Science_Thesis_Project_Repository
-Materials For Data Science Introductory Class Thesis
-
 This repository contains materials towards the completion of my introductory data science thesis with Springboard. 
 
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
