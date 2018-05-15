@@ -25,3 +25,5 @@ A web-app was developed and deployed to the R Shiny.io database, which depicts c
 - Basketball fans will enjoy using this app to more clearly determine whether a game is still competitive and worth watching, or if it's worth it to move on with their lives and maybe beat traffic out of the arena, without fear of missing a dramatically exciting comeback. 
 
 - Basketball executives who are hungry to add statistical-economic "Moneyball" - style methods of analysis to basketball will enjoy using this app to evaluate and consult their coaches via a more numerically robust approach. 
+
+- Gamblers on basketball placing late bets on games will be keen to use this app to add quantitative certainty to their approaches in calculating their opinion of the scoring and outcome odds of a game in progress. 
