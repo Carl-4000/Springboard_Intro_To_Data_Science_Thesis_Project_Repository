@@ -1,2 +1,30 @@
 # Springboard_Intro_To_Data_Science_Thesis_Project_Repository
 Materials For Data Science Introductory Class Thesis
+
+This repository contains materials towards the completion of my introductory data science thesis with Springboard. 
+
+This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
+
+<h2>Data Story Summary:</h2>
+
+The 2012 Chicago Bulls (an NBA franchise worth roughly $2.3 billion) were the top ranked seed in the Eastern Conference, and on opening day of the playoffs against the 8th-seeded Philadelphia 76ers, the Bulls had what seemed to be a large lead by the 4th quarter - or was it? 
+
+The Bulls' injury-prone, yet ever popular star player, Derrick Rose (who was in the 2nd year of his $94.8 million 5-year contract) was left in the game until the final minute, when he blew out his knee. The Bulls won that game, but lost the series in a historically rare upset, and have never again seen success. 
+
+How can data science help mitigate these high-value risks in the future? 
+
+#Data: 
+
+This project uses data simulated by a model, and then various strategies of model validation. The core of this simulation is the Gameflow Chart, where time is on the x-axis, and score difference is the y-axis. 
+
+#Product: 
+
+A web-app was developed and deployed to the R Shiny.io database, which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute (up to 13 minutes before the game ends) a validated probability that the leading team will win. 
+
+#Users: 
+
+- Basketball coaches use this app to determine when to subsitute-out relatively valueable players, and sub-in relatively less valuable players (or not), near the end of the game, to mitigate the risk of needless injury to star players, and extend their viable careers. 
+
+- Fans use this app to more clearly determine whether a game is competitive and worth watching, or if it's worth it to move on with their lives and maybe beat traffic out of the arena, without fear that you'll miss a dramatic comeback. 
+
+- Basketball Executives worldwide who are hungry to add statistical-economic "Moneyball-style" methods of analysis to basketball use this app to evaluate the performance of their coaches in a more numerically robust way. 
