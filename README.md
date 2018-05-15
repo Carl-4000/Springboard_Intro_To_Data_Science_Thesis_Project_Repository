@@ -15,7 +15,7 @@ How can data science help mitigate these high-value risks in the future?
 
 #Data: 
 
-This project uses data simulated by a model, and then various strategies of model validation. The core of this simulation is the Gameflow Chart, where time is on the x-axis, and score difference is the y-axis. 
+This project uses data simulated by a model, and then various strategies of model validation. The core of this simulation is the Gameflow Chart, where time is on the x-axis, and score difference is the y-axis. For the final product, roughly 2.5 million basketball games were simulated and evaluated.
 
 #Product: 
 
@@ -23,8 +23,8 @@ A web-app was developed and deployed to the R Shiny.io database, which depicts c
 
 #Users: 
 
-- Basketball coaches use this app to determine when to subsitute-out relatively valueable players, and sub-in relatively less valuable players (or not), near the end of the game, to mitigate the risk of needless injury to star players, and extend their viable careers. 
+- Basketball coaches will enjoy using this app to take the emotion and intuitioni out of determining when to subsitute-out relatively valueable players, and sub-in relatively less valuable players (or not), near the end of the game, to mitigate the risk of needless injury to star players, and extend their viable careers. 
 
-- Fans use this app to more clearly determine whether a game is competitive and worth watching, or if it's worth it to move on with their lives and maybe beat traffic out of the arena, without fear that you'll miss a dramatic comeback. 
+- Fans will enjoy using this app to more clearly determine whether a game is still competitive and worth watching, or if it's worth it to move on with their lives and maybe beat traffic out of the arena, without fear that you'll miss a dramatic comeback. 
 
-- Basketball Executives worldwide who are hungry to add statistical-economic "Moneyball-style" methods of analysis to basketball use this app to evaluate the performance of their coaches in a more numerically robust way. 
+- Basketball Executives worldwide who are hungry to add statistical-economic "Moneyball-style" methods of analysis to basketball will enjoy using this app to evaluate and consult their coaches in a more numerically robust approach. 
