@@ -24,4 +24,4 @@ A web-app was developed and deployed to the R Shiny.io database, which depicts c
 
 - Fans will enjoy using this app to more clearly determine whether a game is still competitive and worth watching, or if it's worth it to move on with their lives and maybe beat traffic out of the arena, without fear of missing a dramatically exciting comeback. 
 
-- Basketball executives worldwide who are hungry to add statistical-economic "Moneyball-style" methods of analysis to basketball will enjoy using this app to evaluate and consult their coaches in a more numerically robust approach. 
+- Basketball executives worldwide who are hungry to add statistical-economic "Moneyball-style" methods of analysis to basketball will enjoy using this app to evaluate and consult their coaches via a more numerically robust approach. 
