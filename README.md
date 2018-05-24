@@ -4,13 +4,7 @@ This repository includes the R Markdown file for the final paper explaining this
 
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
-<h2>Data Story Summary:</h2>
-
-The 2012 Chicago Bulls (an NBA franchise worth roughly $2.3 billion) were the top ranked seed in the Eastern Conference, and on opening day of the playoffs against the 8th-seeded Philadelphia 76ers, the Bulls had what seemed to be a large lead by the 4th quarter - or was it? 
-
-The Bulls' injury-prone, yet ever popular star player, Derrick Rose (who was in the 2nd year of his $94.8 million 5-year contract) was left in the game until the final minute, when he blew out his knee. The Bulls won that game, but lost the series in a historically rare upset, and have never again seen success. 
-
-How can data science help mitigate these high-value risks in the future? 
+#Data Story - <a href="https://carlrlarson.shinyapps.io/thesis_final_data_science_intro_course_springboard/">see hosted write-up</a>
 
 #Data: 
 
