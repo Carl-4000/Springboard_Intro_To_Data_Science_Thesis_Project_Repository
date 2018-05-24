@@ -1,10 +1,10 @@
 This repository contains materials towards the completion of my introductory data science thesis with Springboard. 
 
-This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/thesis_final_data_science_intro_course_springboard/ 
+This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
-#Data Story - Please <a href="https://carlrlarson.shinyapps.io/thesis_final_data_science_intro_course_springboard/">see this hosted write-up</a> for the full story, but to summarize the problem, basketball is a popular global sport and coaches, fans, gamblers and more are all interested in the mathematical limits of when is too late for a comeback victory? Is it garbage time or not? Should the coach take out the star player or not? Should a fan leave early to beat traffic or not? 
+#Data Story - Please <a href="https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/">see this hosted write-up</a> for the full story, but to summarize the problem, basketball is a popular global sport and coaches, fans, gamblers and more are all interested in the mathematical limits of when is too late for a comeback victory? Is it garbage time or not? Should the coach take out the star player or not? Should a fan leave early to beat traffic or not? 
 
 #Data: 
 
@@ -24,4 +24,4 @@ A web-app was developed and deployed to the R Shiny.io database, which depicts c
 
 - Gamblers on basketball placing late bets on games will be keen to use this app to add quantitative certainty to their approaches in calculating their opinion of the scoring and outcome odds of a game in progress. 
 
-The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/thesis_final_data_science_intro_course_springboard/
+The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
