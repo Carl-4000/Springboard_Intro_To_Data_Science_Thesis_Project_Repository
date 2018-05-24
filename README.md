@@ -1,5 +1,7 @@
 This repository contains materials towards the completion of my introductory data science thesis with Springboard. 
 
+This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/thesis_final_data_science_intro_course_springboard/ 
+
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
 <h2>Data Story Summary:</h2>
@@ -27,3 +29,5 @@ A web-app was developed and deployed to the R Shiny.io database, which depicts c
 - Basketball executives who are hungry to add statistical-economic "Moneyball" - style methods of analysis to basketball will enjoy using this app to evaluate and consult their coaches via a more numerically robust approach. 
 
 - Gamblers on basketball placing late bets on games will be keen to use this app to add quantitative certainty to their approaches in calculating their opinion of the scoring and outcome odds of a game in progress. 
+
+The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/thesis_final_data_science_intro_course_springboard/
