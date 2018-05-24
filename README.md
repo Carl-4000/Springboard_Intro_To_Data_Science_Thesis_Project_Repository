@@ -2,6 +2,8 @@ This repository contains materials towards the completion of my introductory dat
 
 This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
+<a href="https://youtu.be/mi9f62sXySA">A video presentation is included,</a> with a walkthrough of the project powerpoint provided in this file. 
+
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
 #Data Story - Please <a href="https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/">see this hosted write-up</a> for the full story, but to summarize the problem, basketball is a popular global sport and coaches, fans, gamblers and more are all interested in the mathematical limits of when is too late for a comeback victory? Is it garbage time or not? Should the coach take out the star player or not? Should a fan leave early to beat traffic or not? 
