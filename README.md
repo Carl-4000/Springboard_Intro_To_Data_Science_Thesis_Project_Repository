@@ -1,6 +1,8 @@
-<h2>1. Copyright statement comment:</h2> All rights are reserved.
+<h3>1. Copyright statement comment:</h3> 
 
-##2. Author Comment: 
+All rights are reserved.
+
+<h3>2. Author Comment:</h3>
 
 This repository contains materials towards the completion of Carl Larson's introductory data science course capstone with Springboard, with mentor Ryszard Czermiński. 
 
@@ -24,14 +26,14 @@ A web-app was developed and deployed to the R Shiny.io database, which depicts c
 
 The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
-##4. Source and library statements
+<h3>4. Source and library statements</h3>
 
 - require(shiny)
 - require(data.table)
 - require(dplyr)
 - require(ggplot2)
 
-##5. Function definitions 
+<h3>5. Function definitions</h3>
 
 - GameflowMaker4
 - algo2app
@@ -43,7 +45,7 @@ The final write-up is hosted with shiny R components at the link: https://carlrl
 - algo3app
 - gftopo4
   
-##6. Executed statements (of Hooply application):
+<h3>6. Executed statements (of Hooply application):</h3>
   
 - contour()
 - print()
