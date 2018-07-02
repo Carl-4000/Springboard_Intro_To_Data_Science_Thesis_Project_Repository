@@ -33,8 +33,8 @@ require(ggplot2)
 
 5. Function definitions 
 
-a.) GameflowMaker4
-b.) algo2app
+- GameflowMaker4
+- algo2app
 c.) GFmapper
 d.) ContMapSlicer
 e.) HomeWinQApp
