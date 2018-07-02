@@ -12,9 +12,9 @@ This repository contains materials towards the completion of Carl Larson's intro
 
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
-<h3>Data Story</h3> - While watching a timed sports game like basketball, you may have wondered near the end of the game, is it still competitive or are we in 'Garbage Time?' In other words, is there any mathematical chance that the trailing team could still come back and win given the current score and time remaining? 
+<h3>Data Story</h3> While watching a timed sports game like basketball, you may have wondered near the end of the game, is it still competitive or are we in 'Garbage Time?' In other words, is there any mathematical chance that the trailing team could still come back and win given the current score and time remaining? 
 
-The problem statement is a simple classification: Is it 'Garbage Time' or not? 
+- The problem statement is a simple classification: Is it 'Garbage Time' or not? 
 
 The answer has implications such as- Should the coach take out the star player or not? Should a fan leave early to beat traffic or not? How should a busy Vegas oddsmaker weight bets late in a game? 
 
