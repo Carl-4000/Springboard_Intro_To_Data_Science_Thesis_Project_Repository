@@ -1,8 +1,8 @@
-<h3>1. Copyright statement comment:</h3> 
+<h2>1. Copyright statement comment:</h2> 
 
 All rights are reserved.
 
-<h3>2. Author Comment:</h3>
+<h2>2. Author Comment:</h2>
 
 This repository contains materials towards the completion of Carl Larson's introductory data science course capstone with Springboard, with mentor Ryszard Czermiński. 
 
@@ -12,28 +12,30 @@ This repository contains materials towards the completion of Carl Larson's intro
 
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
-#Data Story - While watching a timed sports game like basketball, you may have wondered near the end of the game, is it still competitive or are we in 'Garbage Time?' In other words, is there any mathematical chance that the trailing team could still come back and win given the current score and time remaining? 
+<h3>Data Story</h3> - While watching a timed sports game like basketball, you may have wondered near the end of the game, is it still competitive or are we in 'Garbage Time?' In other words, is there any mathematical chance that the trailing team could still come back and win given the current score and time remaining? 
 
 The problem statement is a simple classification: Is it 'Garbage Time' or not? 
 
 The answer has implications such as- Should the coach take out the star player or not? Should a fan leave early to beat traffic or not? How should a busy Vegas oddsmaker weight bets late in a game? 
 
-#Product: 
+<h3>Product:</h3>
 
 A web-app was developed and deployed to the R Shiny.io database, which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute a validated probability that the leading team will win. 
 
-##3. File description comment: This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
+<h2>3. File description comment:</h2> 
+
+This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
 The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
-<h3>4. Source and library statements</h3>
+<h2>4. Source and library statements</h2>
 
 - require(shiny)
 - require(data.table)
 - require(dplyr)
 - require(ggplot2)
 
-<h3>5. Function definitions</h3>
+<h2>5. Function definitions</h2>
 
 - GameflowMaker4
 - algo2app
@@ -45,7 +47,7 @@ The final write-up is hosted with shiny R components at the link: https://carlrl
 - algo3app
 - gftopo4
   
-<h3>6. Executed statements (of Hooply application):</h3>
+<h2>6. Executed statements (of Hooply application):</h2>
   
 - contour()
 - print()
