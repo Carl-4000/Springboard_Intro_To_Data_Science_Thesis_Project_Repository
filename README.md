@@ -26,24 +26,24 @@ The final write-up is hosted with shiny R components at the link: https://carlrl
 
 4. Source and library statements
 
-require(shiny)
-require(data.table)
-require(dplyr)
-require(ggplot2)
+- require(shiny)
+- require(data.table)
+- require(dplyr)
+- require(ggplot2)
 
 5. Function definitions 
 
 - GameflowMaker4
 - algo2app
-c.) GFmapper
-d.) ContMapSlicer
-e.) HomeWinQApp
-f.) finalScoreAverager2
-g.) GFTsma2
-h.) algo3app
-i.) gftopo4
+- GFmapper
+- ContMapSlicer
+- HomeWinQApp
+- finalScoreAverager2
+- GFTsma2
+- algo3app
+- gftopo4
   
 6. Executed statements (of Hooply application):
   
-  a.) contour()
-  b.) print()
+- contour()
+- print()
