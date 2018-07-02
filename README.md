@@ -1,6 +1,6 @@
-1. Copyright statement comment: All rights are reserved.
+##1. Copyright statement comment: All rights are reserved.
 
-2. Author Comment: 
+##2. Author Comment: 
 
 This repository contains materials towards the completion of Carl Larson's introductory data science course capstone with Springboard, with mentor Ryszard Czermiński. 
 
@@ -20,18 +20,18 @@ The answer has implications such as- Should the coach take out the star player o
 
 A web-app was developed and deployed to the R Shiny.io database, which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute a validated probability that the leading team will win. 
 
-3. File description comment: This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
+##3. File description comment: This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
 The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
-4. Source and library statements
+##4. Source and library statements
 
 - require(shiny)
 - require(data.table)
 - require(dplyr)
 - require(ggplot2)
 
-5. Function definitions 
+##5. Function definitions 
 
 - GameflowMaker4
 - algo2app
@@ -43,7 +43,7 @@ The final write-up is hosted with shiny R components at the link: https://carlrl
 - algo3app
 - gftopo4
   
-6. Executed statements (of Hooply application):
+##6. Executed statements (of Hooply application):
   
 - contour()
 - print()
