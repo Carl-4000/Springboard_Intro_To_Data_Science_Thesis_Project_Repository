@@ -20,7 +20,7 @@ The answer has implications such as- Should the coach take out the star player o
 
 <h3>Product:</h3>
 
-A web-app was developed and deployed to the R Shiny.io database, which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute a validated probability that the leading team will win. 
+An HTML5-based web application was developed and deployed to the R Shiny.io database, which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute a validated probability that the leading team will win. 
 
 <h2>3. File description comment:</h2> 
 
