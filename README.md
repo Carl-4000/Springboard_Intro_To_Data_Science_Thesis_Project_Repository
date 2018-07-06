@@ -1,6 +1,6 @@
 <h2>1. Copyright statement comment:</h2> 
 
-All rights are reserved.
+All rights reserved.
 
 <h2>2. Author Comment:</h2>
 
