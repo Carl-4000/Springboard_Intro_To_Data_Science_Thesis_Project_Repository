@@ -6,9 +6,11 @@ All rights reserved.
 
 This repository contains materials towards the completion of Carl Larson's introductory data science course capstone with Springboard, with mentor Ryszard Czermiński. 
 
-<a href="https://medium.com/@premiumwordsmith/visualizing-basketball-end-games-c8fdd4d757e2">A blog write-up is also hosted at Medium (roughly a 15 minute read).</a> 
+- <a href="https://medium.com/@premiumwordsmith/visualizing-basketball-end-games-c8fdd4d757e2">A blog write-up is also hosted at Medium (roughly a 15 minute read).</a> 
 
-<a href="https://youtu.be/mi9f62sXySA">A video presentation is included,</a> with a walkthrough of the project powerpoint provided in this file. 
+-WHY?- <a href="https://youtu.be/mi9f62sXySA">This video is a demonstration and presentation of Hooply,</a> serving as an introduction to Hooply and *why* people use it. 
+
+-HOW?- <a href="https://youtu.be/Ny_V33HNlFo">This video</a> shows a walkthrough and explanation of the R code that went into the data behind the Hooply application, as well as the source code in Shiny R for the app itself, showing *how* it works. 
 
 This course was taught in the R programming language, and curriculum topics for this course included probability and descriptive statistics, data wrangling, data analysis, and an introduction to machine learning. 
 
