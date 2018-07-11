@@ -26,9 +26,7 @@ The answer has implications such as- Should the coach take out the star player o
 
 <h2>3. File description comment:</h2> 
 
-This repository includes the R Markdown file for the final paper explaining this project, and a knitted html version of this paper is hosted at: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
-
-The final write-up is hosted with shiny R components at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
+The project whitepaper is hosted in this Github repository in both .RMD and .PDF format, and with a Shiny-responsive HTML version hosted at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
 
 <h2>4. Source and library statements</h2>
 
