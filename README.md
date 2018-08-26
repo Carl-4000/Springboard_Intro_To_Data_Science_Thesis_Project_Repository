@@ -4,7 +4,7 @@ All rights reserved.
 
 <h2>2. Author Comment:</h2>
 
-This repository contains materials towards the completion of Carl Larson's introductory data science course capstone with Springboard, with mentor Ryszard Czermiński. 
+This repository contains materials towards the completion of Carl Larson's introductory data science course capstone with Springboard, with special thanks to mentor Ryszard Czermiński. 
 
 - <a href="https://medium.com/@premiumwordsmith/visualizing-basketball-end-games-c8fdd4d757e2">A blog write-up is also hosted at Medium (roughly a 15 minute read).</a> 
 
