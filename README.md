@@ -22,11 +22,11 @@ The answer has implications such as- Should the coach take out the star player o
 
 <h3>Product:</h3>
 
-<a href="https://carlrlarson.shinyapps.io/hooply_app/">An HTML5-based web application was developed and deployed to the R Shiny.io database,</a> which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute a validated probability that the leading team will win. 
+<a href="https://carlrlarson.shinyapps.io/hooply_app/">An HTML5-based web application was developed and deployed to the R Shiny.io database,</a> which depicts contour levels for various "altitudes" of probability, for each cell on the map of score-time endgame possibilities, allowing lay-users to easily compute a validated probability that the leading team will win. A backup copy of the app is also hosted <a href="https://carlrlarson.shinyapps.io/hooply">via this link</a> (in case the first link is over-run by the web traffic cap). 
 
 <h2>3. File description comment:</h2> 
 
-The project whitepaper is hosted in this Github repository in both .RMD and .PDF format, and with a Shiny-responsive HTML version hosted at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/
+The project whitepaper is hosted in this Github repository in both .RMD and .PDF format, and with a Shiny-responsive HTML version hosted at the link: https://carlrlarson.shinyapps.io/Basketball_End-Game_Analysis_Springboard/ Please note this particular link can take a few minutes or more to load, so please be patient. 
 
 <h2>4. Source and library statements</h2>
 
